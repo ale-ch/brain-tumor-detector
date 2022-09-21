@@ -13,7 +13,7 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
 
-model_path = os.path.join(os.getcwd(), "classifier", "model")
+model_path = os.path.join(os.getcwd(), "detector", "model")
 model = tf.keras.models.load_model(model_path)
 class_names = ['brain tumor', 'healthy']
 
