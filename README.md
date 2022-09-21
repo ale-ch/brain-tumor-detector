@@ -1,6 +1,6 @@
 # Brain tumor detector 
 Model training and deployment of a brain tumor detector. \
-The detection is performed via images of MRI scans.
+The detection is performed via images of brain MRI scans.
 
 Link to the dataset: https://www.kaggle.com/datasets/preetviradiya/brian-tumor-dataset
 
