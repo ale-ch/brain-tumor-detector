@@ -10,3 +10,5 @@ The `detector` folder contains the following files:
 
 The `website` folder contains the Flask web application. \
 Execute the script `main.py` and open the given link to launch the web application.
+
+![app ](https://user-images.githubusercontent.com/16632816/191503112-f1b34ba9-2ba8-4a52-aed6-4b72a8e19b60.png)
